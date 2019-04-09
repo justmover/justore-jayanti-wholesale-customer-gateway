@@ -1,0 +1,369 @@
+{
+    "id": "5c920623ce16d2004d93ded5",
+    "catMap": [
+        {
+            "catId": 1000,
+            "id": 1000,
+            "name": "所有產品",
+            "meta": {
+                "id": "m1000",
+                "catId": 1000,
+                "langCode": "zh-tw",
+                "name": "所有產品",
+                "productCount": 138,
+                "published": false,
+                "translated": true,
+                "catSortType": "All"
+            },
+            "productCount": "138",
+            "catSortType": "All",
+            "published": true,
+            "children": [
+                {
+                    "catId": 1001,
+                    "id": 1001,
+                    "name": "Uncategorized",
+                    "published": false,
+                    "meta": {
+                        "id": "m1001",
+                        "catId": 1001,
+                        "langCode": "zh-tw",
+                        "name": "未分類",
+                        "productCount": 0,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "UnCat"
+                    },
+                    "productCount": "0",
+                    "catSortType": "UnCat"
+                },
+                {
+                    "catId": 1002,
+                    "id": 1002,
+                    "name": "精選優惠",
+                    "published": true,
+                    "meta": {
+                        "id": "m1002",
+                        "catId": 1002,
+                        "langCode": "zh-tw",
+                        "name": "精選優惠",
+                        "productCount": 26,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "26",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1003,
+                    "id": 1003,
+                    "name": "Organic Skin Care 有機護膚品",
+                    "published": true,
+                    "meta": {
+                        "id": "m1003",
+                        "catId": 1003,
+                        "langCode": "zh-tw",
+                        "name": "Organic Skin Care 有機護膚品",
+                        "productCount": 77,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "77",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1004,
+                    "id": 1004,
+                    "name": "Bio Star 星級修護系列",
+                    "published": true,
+                    "meta": {
+                        "id": "m1004",
+                        "catId": 1004,
+                        "langCode": "zh-tw",
+                        "name": "Bio Star 星級修護系列",
+                        "productCount": 14,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "14",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1005,
+                    "id": 1005,
+                    "name": "Bio Vita 有機活顏亮肌系列",
+                    "published": true,
+                    "meta": {
+                        "id": "m1005",
+                        "catId": 1005,
+                        "langCode": "zh-tw",
+                        "name": "Bio Vita 有機活顏亮肌系列",
+                        "productCount": 5,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "5",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1006,
+                    "id": 1006,
+                    "name": "Bio Regulation 有機淨化控油系列",
+                    "published": true,
+                    "meta": {
+                        "id": "m1006",
+                        "catId": 1006,
+                        "langCode": "zh-tw",
+                        "name": "Bio Regulation 有機淨化控油系列",
+                        "productCount": 6,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "6",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1007,
+                    "id": 1007,
+                    "name": "Bio Protection 有機豐營修護系列",
+                    "published": true,
+                    "meta": {
+                        "id": "m1007",
+                        "catId": 1007,
+                        "langCode": "zh-tw",
+                        "name": "Bio Protection 有機豐營修護系列",
+                        "productCount": 5,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "5",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1008,
+                    "id": 1008,
+                    "name": "Hydrating Line 花露保濕系列",
+                    "published": true,
+                    "meta": {
+                        "id": "m1008",
+                        "catId": 1008,
+                        "langCode": "zh-tw",
+                        "name": "Hydrating Line 花露保濕系列",
+                        "productCount": 11,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "11",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1009,
+                    "id": 1009,
+                    "name": "Bio Angel 抗氧活肌",
+                    "published": true,
+                    "meta": {
+                        "id": "m1009",
+                        "catId": 1009,
+                        "langCode": "zh-tw",
+                        "name": "Bio Angel 抗氧活肌",
+                        "productCount": 7,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "7",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1010,
+                    "id": 1010,
+                    "name": "Chakra Oils 脈輪精油",
+                    "published": true,
+                    "meta": {
+                        "id": "m1010",
+                        "catId": 1010,
+                        "langCode": "zh-tw",
+                        "name": "Chakra Oils 脈輪精油",
+                        "productCount": 7,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "7",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1011,
+                    "id": 1011,
+                    "name": "Pure Essential Oils 純精油",
+                    "published": true,
+                    "meta": {
+                        "id": "m1011",
+                        "catId": 1011,
+                        "langCode": "zh-tw",
+                        "name": "Pure Essential Oils 純精油",
+                        "productCount": 23,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "23",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1012,
+                    "id": 1012,
+                    "name": "Pure Essential Oils Blended 複方純精油",
+                    "published": true,
+                    "meta": {
+                        "id": "m1012",
+                        "catId": 1012,
+                        "langCode": "zh-tw",
+                        "name": "Pure Essential Oils Blended 複方純精油",
+                        "productCount": 9,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "9",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1013,
+                    "id": 1013,
+                    "name": "Man Line 男仕護理",
+                    "published": true,
+                    "meta": {
+                        "id": "m1013",
+                        "catId": 1013,
+                        "langCode": "zh-tw",
+                        "name": "Man Line 男仕護理",
+                        "productCount": 8,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "8",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1014,
+                    "id": 1014,
+                    "name": "Health Supplement 補健食品",
+                    "published": true,
+                    "meta": {
+                        "id": "m1014",
+                        "catId": 1014,
+                        "langCode": "zh-tw",
+                        "name": "Health Supplement 補健食品",
+                        "productCount": 12,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "12",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1015,
+                    "id": 1015,
+                    "name": "能量精油",
+                    "published": true,
+                    "meta": {
+                        "id": "m1015",
+                        "catId": 1015,
+                        "langCode": "zh-tw",
+                        "name": "能量精油",
+                        "productCount": 9,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "9",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1016,
+                    "id": 1016,
+                    "name": "Carrier Oils 基礎油",
+                    "published": true,
+                    "meta": {
+                        "id": "m1016",
+                        "catId": 1016,
+                        "langCode": "zh-tw",
+                        "name": "Carrier Oils 基礎油",
+                        "productCount": 9,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "6",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1017,
+                    "id": 1017,
+                    "name": "For your baby 親寶寶系列",
+                    "published": true,
+                    "meta": {
+                        "id": "m1017",
+                        "catId": 1017,
+                        "langCode": "zh-tw",
+                        "name": "For your baby 親寶寶系列",
+                        "productCount": 6,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "6",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1018,
+                    "id": 1018,
+                    "name": "Premamam (準媽咪系列)",
+                    "published": true,
+                    "meta": {
+                        "id": "m1018",
+                        "catId": 1018,
+                        "langCode": "zh-tw",
+                        "name": "Premamam (準媽咪系列)",
+                        "productCount": 6,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "6",
+                    "catSortType": "Normal"
+                },
+                {
+                    "catId": 1019,
+                    "id": 1019,
+                    "name": "Balth Salts浴鹽 / Soaps香梘",
+                    "published": true,
+                    "meta": {
+                        "id": "m1019",
+                        "catId": 1019,
+                        "langCode": "zh-tw",
+                        "name": "Balth Salts浴鹽 / Soaps香梘",
+                        "productCount": 8,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "8",
+                    "catSortType": "Normal"
+                }
+            ]
+        }
+    ],
+    "version": 1,
+    "jsid": "ab99139a-1094-47b9-8a93-2af8f90c1bda"
+}

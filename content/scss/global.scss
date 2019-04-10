@@ -24,11 +24,6 @@ a:hover {
     cursor: pointer;
 }
 
-body {
-    background: white;
-    font-family: Microsoft JhengHei !important, Arial !important, Sans-serif !important;
-}
-
 /* ==========================================================================
 Browser Upgrade Prompt
 ========================================================================== */
@@ -42,9 +37,9 @@ Browser Upgrade Prompt
 /* ==========================================================================
 Generic styles
 ========================================================================== */
-
 body {
-    font-family: Microsoft JhengHei, Martel !important, Arial !important, Sans-serif !important;
+    background: white;
+    font-family: Microsoft JhengHei !important, Arial !important, Sans-serif !important;
 }
 
 /* Error highlight on input fields */

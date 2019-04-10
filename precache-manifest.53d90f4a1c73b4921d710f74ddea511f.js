@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "0b77cfcaea934215c9480427cf0ae8f8",
-    "url": "swagger-ui/dist/lib/swagger-oauth.js"
+    "revision": "32285bd59090f5179431e8c5a0a8373a",
+    "url": "swagger-ui/dist/lib/object-assign-pollyfill.js"
   },
   {
-    "revision": "55e7366e512195fd2b264817ead9c94b",
+    "revision": "7f12aedcfd3b089b7cec61ddacda47b6",
     "url": "index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "swagger-ui/index.html"
   },
   {
-    "revision": "1760dc3571725aff59ed",
+    "revision": "a5f2a500ce844be842ab",
     "url": "main.0ee028d8758db6e0e690.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "swagger-ui/dist/images/throbber.gif"
   },
   {
-    "revision": "853410b8a71feb711b7015b0747a930e",
-    "url": "swagger-ui/dist/lib/sanitize-html.min.js"
+    "revision": "0b77cfcaea934215c9480427cf0ae8f8",
+    "url": "swagger-ui/dist/lib/swagger-oauth.js"
   },
   {
-    "revision": "32285bd59090f5179431e8c5a0a8373a",
-    "url": "swagger-ui/dist/lib/object-assign-pollyfill.js"
+    "revision": "853410b8a71feb711b7015b0747a930e",
+    "url": "swagger-ui/dist/lib/sanitize-html.min.js"
   },
   {
     "revision": "36a9155a35fb31e1ce9cc40ae758396f",
@@ -112,29 +112,23 @@ self.__precacheManifest = [
     "url": "swagger-ui/dist/css/style.css"
   },
   {
-    "revision": "168411ea28398d32ec304d780b3582b6",
-    "url": "content/images/jhipster_family_member_1_head-256.png"
+    "revision": "fc8bbf677d4bc9aa695128e317826c11",
+    "url": "content/images/jhipster_family_member_0.svg"
   },
   {
     "revision": "cb4967e14f0b2bb8af563d393a6faea9",
     "url": "favicon.ico"
   },
   {
-    "revision": "1f36d28dd448acd149f6",
+    "revision": "89682ce2bf79dc3b59a1",
     "url": "global.63e62d945ed67c0a6992.css"
   },
   {
-    "revision": "c1a2c1886c2ce17b6d45e3508c6aad19",
-    "url": "content/images/jhipster_family_member_1_head-384.png"
-  },
-  {
-    "url": "content/af7ae505a9eed503f8b8e6982036873e.woff2"
+    "revision": "10015a269b7cae058144fbadbbdf3f4b",
+    "url": "content/images/jhipster_family_member_1_head-192.png"
   },
   {
     "url": "content/fee66e712a8a08eef5805a46892932ad.woff"
-  },
-  {
-    "url": "content/fc8bbf677d4bc9aa695128e317826c11.svg"
   },
   {
     "revision": "eacff69a97192f12eac6b0c3d8ddaf11",
@@ -149,22 +143,6 @@ self.__precacheManifest = [
     "url": "content/scss/_bootstrap-variables.scss"
   },
   {
-    "revision": "74a75039dbcd7a824906a818e426ec9c",
-    "url": "content/images/product_4.png"
-  },
-  {
-    "revision": "fa49c115f5a4b7a78ace0e3678d86fe2",
-    "url": "content/images/product_3.png"
-  },
-  {
-    "revision": "a9dd224355b1718d6327e9e919819556",
-    "url": "content/images/product_2.png"
-  },
-  {
-    "revision": "55343a83aa8bfe8049da706c2d5fae92",
-    "url": "content/images/product_1.png"
-  },
-  {
     "revision": "9d9ceeeac5dbfdd30efd4b50b94b4161",
     "url": "content/images/logo.png"
   },
@@ -173,19 +151,44 @@ self.__precacheManifest = [
     "url": "content/images/logo-jhipster.png"
   },
   {
-    "url": "content/b06871f281fee6b241d60582ae9369b9.ttf"
+    "revision": "5a61dede22b697a13e70ad3b9d78f19e",
+    "url": "content/images/list_icon.svg"
   },
   {
-    "revision": "ea55de73447e71b08059bb429293ed15",
-    "url": "content/css/loading.css"
+    "revision": "9f2177ae8adf049445d895371998f9d1",
+    "url": "content/images/list_icon_selected.svg"
   },
   {
-    "revision": "6ff45769feac8276cb21427e146e208a",
-    "url": "content/data/productCat.json"
+    "revision": "1d1a37383d4e4fddbf7e5bcf6413dc09",
+    "url": "content/images/jhipster_family_member_3.svg"
   },
   {
-    "revision": "c2a7efb76ca3a0b3efdd235ddb05ab68",
-    "url": "content/data/products.json"
+    "revision": "0344877b4e4a229b472d5d3cc1efa738",
+    "url": "content/images/jhipster_family_member_3_head-512.png"
+  },
+  {
+    "revision": "0e92cb25113e8f19e9eaff470138c400",
+    "url": "content/images/jhipster_family_member_3_head-384.png"
+  },
+  {
+    "revision": "6922397dcb9362abde6b8cc0ccf26226",
+    "url": "content/images/jhipster_family_member_3_head-256.png"
+  },
+  {
+    "revision": "f8014ed1b79210a17d3f9752043bfba3",
+    "url": "content/images/jhipster_family_member_3_head-192.png"
+  },
+  {
+    "revision": "4335d5f923e59343903e1b055ef4570c",
+    "url": "content/images/jhipster_family_member_2.svg"
+  },
+  {
+    "revision": "89dfb510ff368170074c4861c7ff44e7",
+    "url": "content/images/jhipster_family_member_2_head-512.png"
+  },
+  {
+    "revision": "df55c79ba08690d3853432ad57b6f7ac",
+    "url": "content/images/jhipster_family_member_2_head-384.png"
   },
   {
     "revision": "4edcfafba53b4cc3ff13c6dab0a3f4f5",
@@ -220,20 +223,20 @@ self.__precacheManifest = [
     "url": "content/images/jhipster_family_member_0_head-512.png"
   },
   {
-    "revision": "fc8bbf677d4bc9aa695128e317826c11",
-    "url": "content/images/jhipster_family_member_0.svg"
+    "revision": "a600f4ddb2fa917efcb6f1bdba48fb8e",
+    "url": "content/images/jhipster_family_member_2_head-256.png"
   },
   {
-    "revision": "10015a269b7cae058144fbadbbdf3f4b",
-    "url": "content/images/jhipster_family_member_1_head-192.png"
+    "revision": "4e25c3a067985258c594514b62937fb4",
+    "url": "content/images/jhipster_family_member_2_head-192.png"
   },
   {
-    "revision": "5a61dede22b697a13e70ad3b9d78f19e",
-    "url": "content/images/list_icon.svg"
+    "revision": "168411ea28398d32ec304d780b3582b6",
+    "url": "content/images/jhipster_family_member_1_head-256.png"
   },
   {
-    "revision": "9f2177ae8adf049445d895371998f9d1",
-    "url": "content/images/list_icon_selected.svg"
+    "revision": "c1a2c1886c2ce17b6d45e3508c6aad19",
+    "url": "content/images/jhipster_family_member_1_head-384.png"
   },
   {
     "revision": "95646bedd95378efbd36f2dad0840bdb",
@@ -244,56 +247,31 @@ self.__precacheManifest = [
     "url": "content/images/jhipster_family_member_1.svg"
   },
   {
-    "revision": "4e25c3a067985258c594514b62937fb4",
-    "url": "content/images/jhipster_family_member_2_head-192.png"
-  },
-  {
-    "revision": "a600f4ddb2fa917efcb6f1bdba48fb8e",
-    "url": "content/images/jhipster_family_member_2_head-256.png"
-  },
-  {
-    "revision": "df55c79ba08690d3853432ad57b6f7ac",
-    "url": "content/images/jhipster_family_member_2_head-384.png"
-  },
-  {
-    "revision": "89dfb510ff368170074c4861c7ff44e7",
-    "url": "content/images/jhipster_family_member_2_head-512.png"
-  },
-  {
-    "revision": "4335d5f923e59343903e1b055ef4570c",
-    "url": "content/images/jhipster_family_member_2.svg"
-  },
-  {
-    "revision": "f8014ed1b79210a17d3f9752043bfba3",
-    "url": "content/images/jhipster_family_member_3_head-192.png"
-  },
-  {
-    "revision": "6922397dcb9362abde6b8cc0ccf26226",
-    "url": "content/images/jhipster_family_member_3_head-256.png"
-  },
-  {
-    "revision": "0e92cb25113e8f19e9eaff470138c400",
-    "url": "content/images/jhipster_family_member_3_head-384.png"
-  },
-  {
-    "revision": "0344877b4e4a229b472d5d3cc1efa738",
-    "url": "content/images/jhipster_family_member_3_head-512.png"
-  },
-  {
-    "revision": "1d1a37383d4e4fddbf7e5bcf6413dc09",
-    "url": "content/images/jhipster_family_member_3.svg"
-  },
-  {
-    "url": "content/0404ba111ec27cf3f1b7223ef8dbda05.svg"
+    "url": "content/9362498e66d8b40652526fb833c25ea2.svg"
   },
   {
     "url": "content/674f50d287a8c48dc19ba404d20fe713.eot"
   },
   {
-    "url": "content/9f2177ae8adf049445d895371998f9d1.svg"
+    "revision": "c2a7efb76ca3a0b3efdd235ddb05ab68",
+    "url": "content/data/products.json"
   },
   {
-    "url": "content/912ec66d7572ff821749319396470bde.svg"
+    "revision": "6ff45769feac8276cb21427e146e208a",
+    "url": "content/data/productCat.json"
+  },
+  {
+    "revision": "58adb14a56940b35de2011ea14f16536",
+    "url": "content/css/loading.css"
+  },
+  {
+    "url": "content/af7ae505a9eed503f8b8e6982036873e.woff2"
+  },
+  {
+    "url": "content/fc8bbf677d4bc9aa695128e317826c11.svg"
+  },
+  {
+    "url": "content/b06871f281fee6b241d60582ae9369b9.ttf"
   },
   {
     "url": "content/9d9ceeeac5dbfdd30efd4b50b94b4161.png"
@@ -302,7 +280,10 @@ self.__precacheManifest = [
     "url": "content/83dee57b1a9719afa9fb5005d92cfdcc.jpg"
   },
   {
-    "url": "content/9362498e66d8b40652526fb833c25ea2.svg"
+    "url": "content/9f2177ae8adf049445d895371998f9d1.svg"
+  },
+  {
+    "url": "content/912ec66d7572ff821749319396470bde.svg"
   },
   {
     "url": "content/5a61dede22b697a13e70ad3b9d78f19e.svg"
@@ -311,22 +292,25 @@ self.__precacheManifest = [
     "url": "content/4edcfafba53b4cc3ff13c6dab0a3f4f5.png"
   },
   {
-    "url": "app/polyfills.79b83e9b22fd20d11699.bundle.js"
+    "url": "content/0404ba111ec27cf3f1b7223ef8dbda05.svg"
   },
   {
-    "url": "app/main.79b83e9b22fd20d11699.bundle.js"
+    "url": "app/polyfills.d9e1a0d9ca1d32db8739.bundle.js"
   },
   {
-    "url": "app/global.79b83e9b22fd20d11699.bundle.js"
+    "url": "app/main.d9e1a0d9ca1d32db8739.bundle.js"
   },
   {
-    "url": "app/4.79b83e9b22fd20d11699.chunk.js"
+    "url": "app/global.d9e1a0d9ca1d32db8739.bundle.js"
   },
   {
-    "url": "app/0.79b83e9b22fd20d11699.chunk.js"
+    "url": "app/4.d9e1a0d9ca1d32db8739.chunk.js"
   },
   {
-    "revision": "42db4330b4056a339a09c8c490b95f56",
+    "url": "app/0.d9e1a0d9ca1d32db8739.chunk.js"
+  },
+  {
+    "revision": "7bb5c1009f3b84ace2f892d6ed3b4f31",
     "url": "./i18n/zh-tw.json"
   },
   {

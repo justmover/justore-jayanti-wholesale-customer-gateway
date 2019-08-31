@@ -1,211 +1,11 @@
 [
     {
-        "id": 6741129301327872,
-        "defaultProductName": "男士水潤滋養套裝",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1002, 1013, 1003],
-        "tags": ["#男仕護膚", "#意大利製造", "#保濕鎖水", "#面部護理"],
-        "metaData": [
-            {
-                "id": "meta_data_6741129301327872",
-                "productId": 6741129301327872,
-                "langCode": "zh-tw",
-                "name": "男士水潤滋養套裝",
-                "description": "1) 滋養活顏面霜 30ml (抗老化、保濕、抗皺、激活細胞) 強效補水、保護肌膚細胞及抗衰老，更有效對抗炎症、舒緩過敏、促進肌膚再生、活顏注氧，喚醒肌膚生命力。  2) 長效水潤豐盈精華 30ml (保濕、再生、舒緩) 由大量不同分子之透明質酸組成，再配合優質有機蘆薈和楓糖漿，有效令肌膚的每個層次持久補濕。而摩洛哥堅果油成份更能抗衰老，令肌膚得到長時間的水潤之餘，更覺飽滿無瑕。   "
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/A1inY7BtHZT5eU-nRFtHVOv_S7X4cqrZrnzekNZ-KUnnnekR-YayCMzN4rMW0oUYZynd4kKlAPAvy8MJcAKlLQ"
-        ]
-    },
-    {
-        "id": 6171424857522176,
-        "defaultProductName": "Illuminating & Moisturizer Hydrosol  有機薰衣草水嫩亮肌花露 (兩支裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1008, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_6171424857522176",
-                "productId": 6171424857522176,
-                "langCode": "zh-tw",
-                "name": "Illuminating & Moisturizer Hydrosol  有機薰衣草水嫩亮肌花露 (兩支裝)",
-                "description": "成份：有機薰衣草花露、有機橙花花露、有機橄欖葉提取液、有機蘆薈凝膠、有機楓糖漿 功效：喚醒肌膚底層細胞，提供源源不絶水份，深層滋養潤澤，針對乾性和暗啞的肌膚，可當作一般補水滋潤，煥醒肌膚的護理。 (200ML x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/VkZFPgABx1gSORw2jY26x0nTiI50HtyKLYRNFPkGT1iicnJ2XSLJJZVaI9-YwnzS7u-EyAy-3ArIah3EpkLu"
-        ]
-    },
-    {
-        "id": 5598909542170624,
-        "defaultProductName": "Purifying & Soothing Hydrosol 有機橙花浄化舒敏花露 (兩支裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1008, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_5598909542170624",
-                "productId": 5598909542170624,
-                "langCode": "zh-tw",
-                "name": "Purifying & Soothing Hydrosol 有機橙花浄化舒敏花露 (兩支裝)",
-                "description": "成份：多種有機花露、有機橄欖葉提取液、有機蘆薈凝膠 功效：具極強浄化舒緩能量，能有效鎮靜消腫、舒緩過敏、激活細胞增生。適合任何膚質作為化妝水使用。針對缺氧、油性或暗瘡的肌膚，則可當作一般鎮靜舒敏護理。 (200ML x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/LuTxk_wBqxBrsnzEz2qjT2vERj9Q62W0Nhv5Q-lHU9q8LeLCO17_m5ISXnQNKdjLtomCkL8CPm2y-EpgD6wv"
-        ]
-    },
-    {
-        "id": 6299795893518336,
-        "defaultProductName": "Anti Age & Toning Rose Hydrosol  有機玫瑰抗老緊緻花露 (兩支裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1008, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_6299795893518336",
-                "productId": 6299795893518336,
-                "langCode": "zh-tw",
-                "name": "Anti Age & Toning Rose Hydrosol  有機玫瑰抗老緊緻花露 (兩支裝)",
-                "description": "成份：有機玫瑰花露、有機橄欖葉提取液、有機蘆薈凝膠、七葉樹提取液 功效：有效緊緻、鎮定和淨化肌膚，對抗衰老和減少細紋的功效。特別針對成熟、暗啞、缺乏護理的肌膚，則可作為抗衰老養顏液 (200ML x 2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/aXhgzgDkFoUgrDNme2qb1y5WBXDzLawUBUj4NXi2atUHY1ShnFyiqGQKBRzvPzTKchu61rSqBFM_VvNQigAq"
-        ]
-    },
-    {
-        "id": 4752349241540608,
-        "defaultProductName": "Slim Act  纖型減磅  (兩瓶裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1014, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_4752349241540608",
-                "productId": 4752349241540608,
-                "langCode": "zh-tw",
-                "name": "Slim Act  纖型減磅  (兩瓶裝)",
-                "description": "有助體重管理 以100%天然植物成份製成，為低熱量飲食之佐劑，用於減輕體重。內含綠茶和生咖啡豆，有助平衡體重、激活新陳代謝，重而排出體內多餘的體液；更加入胭脂仙人掌成份，對加強自身代謝糖和脂質非常有效。 (30粒一瓶x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/fy0KDHBHGQ9c3XJeYGjFweOt-sOiEJ40t4_StY7kn1Bh73U0tRF1vptk6gU6rhr9BbFqJ-jyUy-L_MrGQHhkBg"
-        ]
-    },
-    {
-        "id": 6228796896444416,
-        "defaultProductName": "Sweet Sleep  减壓甜睡 (兩瓶裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1014, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_6228796896444416",
-                "productId": 6228796896444416,
-                "langCode": "zh-tw",
-                "name": "Sweet Sleep  减壓甜睡 (兩瓶裝)",
-                "description": "鎮靜和放鬆心情 天然植物萃取物對改善難以入睡及平靜睡眠非常有效。 蘊含西番蓮，纈草和 Escoltzia 有效放鬆心情、鎮靜心靈使更容易入睡。 褪黑激素有助縮短所需的入睡時間；維生素B6則有助重整神經系統的正常功能。 (30粒一瓶x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/l6mdjIsfIkX0xsOuxIT9teK7lzabjWFq9_bOsQL8_fAXthkg3hXPqTTlS9_fAXm1XBdJFGIMJYpuLH4iHY2G"
-        ]
-    },
-    {
-        "id": 6009384734031872,
-        "defaultProductName": "Power Act  能量泉源 (兩瓶裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1014, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_6009384734031872",
-                "productId": 6009384734031872,
-                "langCode": "zh-tw",
-                "name": "Power Act  能量泉源 (兩瓶裝)",
-                "description": "身．心．靈之補品 同樣以天然植物成份研製而成，有助身體及精神上之重整，特別適合工作繁忙、生活壓力大的都市人。含有小球藻，綠藻含豐富的營養素和葉綠素，與螺旋藻一起於極度疲勞的時候提供養份來補充或增加營養之需求。 它更有效支持和恢復各機能之運作，有助心靈上之淨化。 (30粒一瓶x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/FVPRhjM96sVrD9q9fq1G0qXlm4OS8firoL6oWX4wHvsZ3he9l1rPuzqOGxYXwczXQ7IpX83DTZogcJEZjRXQ"
-        ]
-    },
-    {
-        "id": 6256107251302400,
-        "defaultProductName": "Draining Act  排水去脂  (兩瓶裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1014, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_6256107251302400",
-                "productId": 6256107251302400,
-                "langCode": "zh-tw",
-                "name": "Draining Act  排水去脂  (兩瓶裝)",
-                "description": " 對抗脂肪團積累 我們的研究團隊專門混合各天然植物之活性成份，配製成有助擊退水腫及脂肪團之補健食品。蘊含菠蘿和樺樹，有助體液排出和抵抗局部脂肪；積雪草、百勞金雀花及紅葡萄，有利促進微循環，舒緩大腿水腫；而白藜蘆醇則有效抗氧化及對抗炎症。 (30粒一瓶x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/BRBtm6jmf80Llpx4iVfxUu2H3-cUT1h-yZhQQujGrCHiHw-ux6YGP1rbbnxpxFYjvqnr7IklTu7G1AbC609t4Q"
-        ]
-    },
-    {
-        "id": 5967608526667776,
-        "defaultProductName": "Detox Act  排毒首選  (兩瓶裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1014, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_5967608526667776",
-                "productId": 5967608526667776,
-                "langCode": "zh-tw",
-                "name": "Detox Act  排毒首選  (兩瓶裝)",
-                "description": "潔淨肝臟及消化系統 這天然植物提煉之補健食品，特別為改善因身體不平衡而令毒素積累所研製。蘊含蒲公英、茴香、薑和菊芋，能有效改善自然消化過程和有利於機能上之潔淨； 它所含之肌醇更有助維持正常肝臟運作。 (30粒一瓶x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/pGrkLL30KkTpmOs8xaW995cr8AXdmuzxYVMyOVKvGQcRrG15fuNlafMg0t2zx2H2EIkAjmSJrO7Mk7Aaxek"
-        ]
-    },
-    {
-        "id": 5683286926163968,
-        "defaultProductName": "Anti Age   抗衰老  (兩瓶裝)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1014, 1002],
-        "tags": ["#3月精選"],
-        "metaData": [
-            {
-                "id": "meta_data_5683286926163968",
-                "productId": 5683286926163968,
-                "langCode": "zh-tw",
-                "name": "Anti Age   抗衰老  (兩瓶裝)",
-                "description": "延緩自我老化過程 我們自設的實驗室以天然植物成份為藍本，特別研製出可對抗及延緩衰老之補健食品。蘊含輔酶Q 10和葡萄籽，有助保護細胞免受氧化侵害；維生素C有助膠原自我形成，葫蘆巴、MSM天然有機硫質和鋅則為皮膚和皮膚附肢（頭髮和指甲）提供有益之養份。 (30粒x2)"
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/qFaEOnb7C1aly0S_WjMlIeN_WTEW2BiTV9c621n-nQg2VnZ-akamM-XWsRgpI_4_86KUAecwc1ZeOMsGhOI"
-        ]
-    },
-    {
         "id": 5779365703188480,
         "defaultProductName": "BA01012 Amazing Body Elixir 舒倦滋養潤膚油 200ml",
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1009, 1002],
-        "tags": ["#意大利製造", "#面部護理", "#抗衰老", "#8折優惠"],
+        "tags": ["#意大利製造", "#面部護理", "#抗衰老"],
         "metaData": [
             {
                 "id": "meta_data_5779365703188480",
@@ -225,7 +25,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1009, 1002],
-        "tags": ["#意大利製造", "#面部護理", "#抗衰老", "#8折優惠"],
+        "tags": ["#意大利製造", "#面部護理", "#抗衰老"],
         "metaData": [
             {
                 "id": "meta_data_5127674813218816",
@@ -245,7 +45,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1009, 1002],
-        "tags": ["#意大利製造", "#面部護理", "#抗衰老", "#8折優惠"],
+        "tags": ["#意大利製造", "#面部護理", "#抗衰老"],
         "metaData": [
             {
                 "id": "meta_data_5354224473079808",
@@ -265,7 +65,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1009, 1002],
-        "tags": ["#意大利製造", "#面部護理", "#抗衰老", "#8折優惠"],
+        "tags": ["#意大利製造", "#面部護理", "#抗衰老"],
         "metaData": [
             {
                 "id": "meta_data_5690624766640128",
@@ -285,7 +85,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1009, 1002],
-        "tags": ["#意大利製造", "#面部護理", "#抗衰老", "#8折優惠"],
+        "tags": ["#意大利製造", "#面部護理", "#抗衰老"],
         "metaData": [
             {
                 "id": "meta_data_4531536741531648",
@@ -305,7 +105,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1009, 1002],
-        "tags": ["#意大利製造", "#面部護理", "#抗衰老", "#8折優惠"],
+        "tags": ["#意大利製造", "#面部護理", "#抗衰老"],
         "metaData": [
             {
                 "id": "meta_data_5194160504307712",
@@ -325,7 +125,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1009, 1002],
-        "tags": ["#意大利製造", "#面部護理", "#抗衰老", "#8折優惠"],
+        "tags": ["#意大利製造", "#面部護理", "#抗衰老"],
         "metaData": [
             {
                 "id": "meta_data_6147585865940992",
@@ -357,27 +157,6 @@
         ],
         "photoIds": [
             "https://lh3.googleusercontent.com/X3WSANjMGHu1UiWSg85xvByquj8KCvqvTHdMs1S-G4nkWvFalroWgOLNnIIjI_2wn3YvFQ44beAQJP-LxBHYPA"
-        ]
-    },
-    {
-        "id": 6123082305765376,
-        "defaultProductName": "情侶保濕精華套裝",
-        "isPublished": false,
-        "totalStock": 6,
-        "productCategoryIds": [],
-        "tags": [],
-        "metaData": [
-            {
-                "id": "meta_data_6123082305765376",
-                "productId": 6123082305765376,
-                "langCode": "zh-tw",
-                "name": "情侶保濕精華套裝",
-                "description": "【情人節限定套裝優惠💕】  -長效水潤豐盈精華30ml (男士) -花露保濕精華30ml (女士)   長效水潤豐盈精華 由大量不同分子之透明質酸組成，再配合優質有機蘆薈和楓糖漿，有效令肌膚的每個層次持久補濕。而摩洛哥堅果油成份更能抗衰老，令肌膚得到長時間的水潤之餘，更覺飽滿無瑕。  花露保濕精華 藴含兩種不同分子量的透明質酸和多種有機花露如薰衣草、橙花、金縷梅和玫瑰等，源源不絶補充水份、並增強肌膚長時間的保水能力。 蘆薈凝膠和楓糖漿則提供保護、舒緩和深層滋養功效，讓肌膚持久水潤幼滑。 "
-            }
-        ],
-        "上架狀態": "下架",
-        "photoIds": [
-            "https://lh3.googleusercontent.com/sAGAarPiTktY1UtXrn2vv1Y9io4y3SFbPfFgfbvTntxDqjl2MMuxq5WCZreV8K9LgL7LwWdiYN8TIhuM7b8Ggg"
         ]
     },
     {
@@ -1364,7 +1143,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1013, 1002],
-        "tags": ["#男仕護膚", "#意大利製造", "#身體護理", "#8折優惠"],
+        "tags": ["#男仕護膚", "#意大利製造", "#身體護理"],
         "metaData": [
             {
                 "id": "meta_data_4943656511602688",
@@ -1384,7 +1163,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1013, 1002],
-        "tags": ["#男仕護膚", "#意大利製造", "#面部護理", "#8折優惠"],
+        "tags": ["#男仕護膚", "#意大利製造", "#面部護理"],
         "metaData": [
             {
                 "id": "meta_data_6346273091485696",
@@ -1404,7 +1183,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1013, 1002],
-        "tags": ["#男仕護膚", "#意大利製造", "#身體護理", "#8折優惠"],
+        "tags": ["#男仕護膚", "#意大利製造", "#身體護理"],
         "metaData": [
             {
                 "id": "meta_data_6204513216364544",
@@ -1424,7 +1203,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1013, 1002],
-        "tags": ["#男仕護膚", "#意大利製造", "#滋養修護", "#面部護理", "#8折優惠"],
+        "tags": ["#男仕護膚", "#意大利製造", "#滋養修護", "#面部護理"],
         "metaData": [
             {
                 "id": "meta_data_6422344075837440",
@@ -1444,7 +1223,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1013, 1002],
-        "tags": ["#男仕護膚", "#意大利製造", "#滋養修護", "#面部護理", "#8折優惠"],
+        "tags": ["#男仕護膚", "#意大利製造", "#滋養修護", "#面部護理"],
         "metaData": [
             {
                 "id": "meta_data_6208175061860352",
@@ -1464,7 +1243,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1013, 1002],
-        "tags": ["#男仕護膚", "#意大利製造", "#保濕鎖水", "#面部護理", "#8折優惠"],
+        "tags": ["#男仕護膚", "#意大利製造", "#保濕鎖水", "#面部護理"],
         "metaData": [
             {
                 "id": "meta_data_6654370573975552",
@@ -1484,7 +1263,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1013, 1002],
-        "tags": ["#男仕護膚", "#意大利製造", "#滋養修護", "#緊緻", "#面部護理", "#8折優惠"],
+        "tags": ["#男仕護膚", "#意大利製造", "#滋養修護", "#緊緻", "#面部護理"],
         "metaData": [
             {
                 "id": "meta_data_6597210515177472",
@@ -1584,7 +1363,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1008, 1002],
-        "tags": ["#意大利製造", "#保濕鎖水", "#面部護理", "#3月精選"],
+        "tags": ["#意大利製造", "#保濕鎖水", "#面部護理"],
         "metaData": [
             {
                 "id": "meta_data_6579402859347968",
@@ -1764,7 +1543,7 @@
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1003, 1004, 1002],
-        "tags": ["#意大利製造", "#淨化袪痘", "#面部護理", "#3月精選"],
+        "tags": ["#意大利製造", "#淨化袪痘", "#面部護理"],
         "metaData": [
             {
                 "id": "meta_data_6177801606791168",

@@ -38,42 +38,6 @@
                     "catSortType": "UnCat"
                 },
                 {
-                    "catId": 1002,
-                    "id": 1002,
-                    "name": "精選優惠",
-                    "published": true,
-                    "meta": {
-                        "id": "m1002",
-                        "catId": 1002,
-                        "langCode": "zh-tw",
-                        "name": "精選優惠",
-                        "productCount": 26,
-                        "published": false,
-                        "translated": true,
-                        "catSortType": "Normal"
-                    },
-                    "productCount": "26",
-                    "catSortType": "Normal"
-                },
-                {
-                    "catId": 1003,
-                    "id": 1003,
-                    "name": "Organic Skin Care 有機護膚品",
-                    "published": true,
-                    "meta": {
-                        "id": "m1003",
-                        "catId": 1003,
-                        "langCode": "zh-tw",
-                        "name": "Organic Skin Care 有機護膚品",
-                        "productCount": 77,
-                        "published": false,
-                        "translated": true,
-                        "catSortType": "Normal"
-                    },
-                    "productCount": "77",
-                    "catSortType": "Normal"
-                },
-                {
                     "catId": 1004,
                     "id": 1004,
                     "name": "Bio Star 星級修護系列",

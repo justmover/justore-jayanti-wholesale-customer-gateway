@@ -339,122 +339,122 @@
     },
     {
         "id": 6371963169931264,
-        "defaultProductName": "88070   Grapeseed Oil 50ml  (葡萄籽油)",
+        "defaultProductName": "88207 GRAPESEED OIL (200ML) 葡萄籽油",
         "isPublished": true,
         "totalStock": 0,
         "productCategoryIds": [1000, 1016, 1003],
-        "tags": ["#意大利製造", "#身體護理"],
+        "tags": ["有機基底油", "ORGANIC CARRIER OILS"],
         "metaData": [
             {
                 "id": "meta_data_6371963169931264",
                 "productId": 6371963169931264,
                 "langCode": "zh-tw",
-                "name": "88070   Grapeseed Oil 50ml  (葡萄籽油)",
-                "description": "功效：排水、適用於所有膚質和頭髮。 "
+                "name": "88207 GRAPESEED OIL (200ML) 葡萄籽油",
+                "description": "淡黃色或淡綠色葡萄籽油的滲透力和抗氧化功能很強, 可用作面部按摩及治療用途. 它的油質清爽且不油膩, 非常容易被為皮膚吸收. 適合敏感, 油性, 暗瘡及粉刺皮膚. 葡萄籽油能增強肌膚的保濕效果, 同時可潤澤和柔軟肌膚. 葡萄籽油含有兩種重要元素, 亞麻油酸及原花色素, 簡稱 OPC. 亞麻油酸是人體必需而為人體所不能合成的脂肪酸. 可以抵抗自由基並且抗老化, 亦能幫助皮膚吸收維生素C 和 E, 從而強化循環系統的彈性, 更可改善靜脈腫脹、水腫以及預防皮膚的黑色素沉澱.<br><br>葡萄籽油內的原花色素能保護血管彈性, 阻止膽固醇囤積於血管壁上及減少血少板凝固. 能保護皮膚免受紫外線的荼毒破壞膠原纖維及彈性纖維, 保護肌膚中的膠原蛋白, 使肌膚保持彈性及張力, 避免皮膚下垂及皺紋產生. 它還含有許多強力的抗氧化物和天然有機酸. 含天然成份葉綠素, 微量礦物元素, 脂肪酸, 葡萄糖, 鉀, 磷, 鈣, 鎂, 葡萄多酚, 維他命B1, B3, B5, C, E, F. 可100%使用."
             }
         ],
         "photoIds": [
-            "https://lh3.googleusercontent.com/hGkPHPCIJisRQRZbf3S60aJYwhQsivbrMOnt8jTCVMdS-xAUYo85dwtJV4YtsHAIbmNbWsqws41aES5qNfmW"
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1574311738/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Grape_Seed_Oil.png"
         ]
     },
     {
         "id": 5964981665529856,
-        "defaultProductName": "88060   Peach Kernel Oil 50ml   (桃仁油)",
+        "defaultProductName": "88260   PEACH KERNEL OIL (200ML) 桃仁油",
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1016, 1003],
-        "tags": ["#意大利製造", "#身體護理"],
+        "tags": ["有機基底油", "ORGANIC CARRIER OILS"],
         "metaData": [
             {
                 "id": "meta_data_5964981665529856",
                 "productId": 5964981665529856,
                 "langCode": "zh-tw",
-                "name": "88060   Peach Kernel Oil 50ml   (桃仁油)",
-                "description": "功效：舒緩、適用於敏感性，嬰兒和兒童的皮膚。  "
+                "name": "88260   PEACH KERNEL OIL (200ML) 桃仁油",
+                "description": "胡桃果油含棕櫚烯酸和脂肪酸, 是皮膚形成油脂保護層必備的營養素. 胡桃果滋潤性佳, 油性溫和不刺激皮膚, 延展性良好, 有油膩感, 滲透力佳. 適合任何性質肌膚. 它對各種精油的溶解度高, 在使用上很方便. 只需調和10%在其它植物油就足夠了. 主要生產於澳洲和夏威夷. 它的天然成份含豐富礦物質, 不飽和脂肪酸, 蛋白質, 棕櫚烯酸.<br><br>使用堅果油來製造或加入乳霜中, 能有效使肌膚柔軟而有活力, 深層滋潤及保濕, 還可同時保護細胞膜. 加入於身體護膚乳液中, 可增加其潤滑度及滋潤度. 特別適合成熟及幹性皮膚.<br><br>使用方法 :<br>稀釋10% 於其它適用的植物油. 成熟或幹性肌膚可使用20%."
             }
         ],
         "photoIds": [
-            "https://lh3.googleusercontent.com/4qdBIe4LwNilIlqTT_xU0ibR0pX_nAqVUbvWKC2MhJd9Qu2R1b-_5nAqxs38acQLy1U8-mPNmRABU_TEAIR4"
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1574311738/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Peach_Kernel_Oil.png"
         ]
     },
     {
         "id": 5070372726898688,
-        "defaultProductName": "88050   Macadamia Oil 50ml  (夏威夷堅果油)",
+        "defaultProductName": "88250   MACADAMIA OIL (200ML) 夏威夷堅果油",
         "isPublished": true,
         "totalStock": 0,
         "productCategoryIds": [1000, 1016, 1003],
-        "tags": ["#意大利製造", "#身體護理"],
+        "tags": ["有機基底油", "ORGANIC CARRIER OILS"],
         "metaData": [
             {
                 "id": "meta_data_5070372726898688",
                 "productId": 5070372726898688,
                 "langCode": "zh-tw",
-                "name": "88050   Macadamia Oil 50ml  (夏威夷堅果油)",
-                "description": "功效：潤膚、適用於乾性或脫水膚質。 "
+                "name": "88250   MACADAMIA OIL (200ML) 夏威夷堅果油",
+                "description": "盛產在摩洛哥西南部, 100％純有機冷榨的天然油. 高含量的不飽和脂肪酸, 天然維生素E, 酚類, 酚酸和胡蘿蔔素, 是珍貴的天然潤膚劑, 對皮膚和頭髮都很有效果.<br><br>摩洛哥堅果油還含有豐富的天然抗氧化劑物, 科學研究發現其天然營養對美容和藥用都有好處. 適合任何年齡的人使用包括嬰兒. 用以保護和滋養皮膚, 頭髮和指甲. 摩洛哥堅果油亦是有效抗衰老的天然油, 有癒合和美化的屬性.<br><br>約1％至4％使用在皮膚護理, 0.2％至2％用在頭髮護理,可冷用或加熱到60oC/140oF. 只供外用. 應當存放在密閉的容器中, 存放在陰涼乾燥處會較穩定."
             }
         ],
         "photoIds": [
-            "https://lh3.googleusercontent.com/YBboUCrjIx98DOK33siEPPi_XdlG2pXxTaQX-nZ-hHr6VmcLII81UwmLLAGYsOVBS5_uShKt_LnC68HXYELc"
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1574311738/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Macadamia_Oil.png"
         ]
     },
     {
         "id": 5262998923116544,
-        "defaultProductName": "88040   Seasame Oil 50ml (芝麻油)",
+        "defaultProductName": "88240   SEASAME OIL (200ML) 芝麻油",
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1016, 1003],
-        "tags": ["#意大利製造", "#身體護理"],
+        "tags": ["有機基底油", "ORGANIC CARRIER OILS"],
         "metaData": [
             {
                 "id": "meta_data_5262998923116544",
                 "productId": 5262998923116544,
                 "langCode": "zh-tw",
-                "name": "88040   Seasame Oil 50ml (芝麻油)",
-                "description": "功效：皮脂調節器、適用於脂溢性、毛孔堵塞的暗瘡性肌膚。 "
+                "name": "88240   SEASAME OIL (200ML) 芝麻油",
+                "description": "黑芝麻油含豐富的維生素E及必需脂肪酸C18:2, 30-47%. 具親水性的特質, 親膚性特別好. 是很棒的按摩基底油, 有極佳的美容及養生價值. 添加20%芝麻油於任何一種植物油配方中, 有抗自由基、保濕、潤滑、使皮膚組織結構健康、延緩老化的功效. 芝麻油有效對抗百分之三十的太陽的紫外光, 可製作成防曬用品. 舒緩日曬後肌膚.<br><br>芝麻油顏色淡黃至深黃色或淡褐色. 含天然成份的脂肪酸, 礦物質, 蛋白質, 卵磷脂, 氨基酸, 維生素E及B2. 對於幹癬, 濕疹, 風濕關節炎, 延緩肌膚老化及柔軟皮膚有很好的效用. 適合各種肌膚. 只需10%至20%的稀釋."
             }
         ],
         "photoIds": [
-            "https://lh3.googleusercontent.com/JQ71NbxoVYz-C9I0M1tCxiClBbKFIsvvzu5XoUcakA1N9bIXdAehE-j6JPIzwGZWn9j0E6T9Pz3cP1BFODGmMw"
-        ]
-    },
-    {
-        "id": 6227868359327744,
-        "defaultProductName": "88030   Jojoba Oil 50ml (荷荷巴油)",
-        "isPublished": true,
-        "totalStock": 6,
-        "productCategoryIds": [1000, 1016, 1003],
-        "tags": ["#意大利製造", "#身體護理"],
-        "metaData": [
-            {
-                "id": "meta_data_6227868359327744",
-                "productId": 6227868359327744,
-                "langCode": "zh-tw",
-                "name": "88030   Jojoba Oil 50ml (荷荷巴油)",
-                "description": "功效：保濕和修護、適用於所有膚質、刺激性肌膚、需要維生素和礦物質的肌膚。 "
-            }
-        ],
-        "photoIds": [
-            "https://lh3.googleusercontent.com/8oYj3RPkOacayeU5oHLODqEV6156GNj7rkmxV-zX6vHvpv1qjxL1fWqfiB1k10HHCdo1tM_jx1-4ZBkkZEcCTA"
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1574311738/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Sesame_Oil.png"
         ]
     },
     {
         "id": 5834930877890560,
-        "defaultProductName": "88010   Hemp Oil 50ml  (大麻油)",
+        "defaultProductName": "88210   HEMP OIL (200ML) 大麻油",
         "isPublished": true,
         "totalStock": 6,
         "productCategoryIds": [1000, 1016, 1003],
-        "tags": ["#意大利製造", "#身體護理"],
+        "tags": ["有機基底油", "ORGANIC CARRIER OILS"],
         "metaData": [
             {
                 "id": "meta_data_5834930877890560",
                 "productId": 5834930877890560,
                 "langCode": "zh-tw",
-                "name": "88010   Hemp Oil 50ml  (大麻油)",
-                "description": "功效：有再生、平衡和滋養功效，十分適合用於淨化皮膚。適用於缺水性皮膚，皮炎皮膚與經電染頭髮。 "
+                "name": "88210   HEMP OIL (200ML) 大麻油",
+                "description": "大麻籽油來自植物, 亦被稱為大麻. 有很好的麻醉性能, 其功效超過其治療用途. 這是由於Omega-6，Omega-3的平衡和含豐富的必需脂肪酸, 防止皮膚水分流失, 並有助於防止皮膚過早老化, 並能有效地維持水分平衡. 它也可以減輕某些皮膚病如濕疹, 痤瘡和銀屑病. 大麻籽油有助於減輕皮膚炎症和皮膚乾燥的症狀. 皮炎患者通常使用大麻籽油約20週後, 皮膚痕癢感顯著改善.<br><br>大麻籽油很適用於皮膚和頭髮產品中. 亦可以幫助許多健康問題. 使用於按摩能迅速減輕疼痛. 由於大麻籽油是天然的, 可用作淋浴或洗澡後的潤膚油. 當你用它按摩你的身體, 它非常滋養肌膚, 增加血液循環.<br><br>加入在護膚品中：<br>大麻籽油很常加入在各種化妝品, 護膚霜, 洗髮水, 剃須膏, 唇膏和防曬霜中. 大麻籽油是一種天然的保濕劑. 可以幫助使你的皮膚感覺光滑柔軟, 同時充當保護層, 防止水分流失. 大麻籽油含豐富的維生素D, 這是皮膚必要吸收的鈣, 以幫助皮膚結實, 柔軟, 光滑和充水.<br><br>大麻籽油對皮膚的優點：<br>含有對皮膚健康的脂肪酸. 這些脂肪酸有足夠營養令皮膚滋潤. 有很多護膚產品如面霜, 身體乳霜都用大麻籽油為主要成分, 這都是因為這是天然而且幾乎沒有副作用. 用大麻籽油按摩, 會使你的皮膚保持年青健康. 經常使用能抗衰老, 防止或舒緩有些皮膚疾病如牛皮癬, 濕疹, 痤瘡和皮膚乾燥."
             }
         ],
         "photoIds": [
-            "https://lh3.googleusercontent.com/SDdGqiroxkFVBLilhF2wcAjqZwWqCHJb-zcCfyyKnzvqB6u_EOI-YHMEMqiZ6zjXLENwBnZQDF7_93q-ERU"
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1574311738/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Hemp_Seed_Oil.png"
+        ]
+    },
+    {
+        "id": 88328,
+        "defaultProductName": "88328 CHAKRA MASSAGE OIL (200ML) 脈輪按摩油",
+        "isPublished": true,
+        "totalStock": 6,
+        "productCategoryIds": [1000, 1016, 1003],
+        "tags": ["有機基底油", "ORGANIC CARRIER OILS"],
+        "metaData": [
+            {
+                "id": "meta_data_88328",
+                "productId": 88328,
+                "langCode": "zh-tw",
+                "name": "88328 CHAKRA MASSAGE OIL (200ML) 脈輪按摩油",
+                "description": "Suitable for: all skin types.<br><br>Highly fluidity massage oil created specifically for the “jayanti chakra massage”. Thanks to the absence of parfume, the therapist can use it by diluting in it some drops of the necessary “Jayanti’s chakra oil”. Furthermore, its 100% organic and vegetable composition makes this oil a cure-all for the skin, nourishing it, making it more elastic and protecting it.<br><br>Natural active ingredients content are:<br>Organic grapeseed oil - antioxidant, soothing, firming.<br>Organic sunflower oil - rich in vitamins E, A, C, and D, antioxidant, rich in polyunsaturated fatty acids excellent against impure skin.<br>Tocopherols - antioxidant, catalysts, emollient.<br><br>Instruction for use: : for full body and face professional Jayanti chakra massage.<br>To be mix with Jayanti’s chakra oil."
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1574311738/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Chakra_Oil.png"
         ]
     },
     {

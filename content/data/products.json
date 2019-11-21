@@ -2550,11 +2550,211 @@
                 "productId": 4951646224515072,
                 "langCode": "zh-tw",
                 "name": "99001 Power Act   30 cupsules (能量泉源)         ",
-                "description": "成份：綠球藻、螺旋藻 功效：含有小球藻，綠藻含豐富的營養素和葉綠素，與螺旋藻一起於極度疲勞的時候提供養份來補充或增加營養之需求。 它更有效支持和恢復各機能之運作，有助心靈上之淨化。 服用方法:  建議劑量: 每日一次,不要服用超過建議劑量,產品應遠離三歲以下兒童,補健食品不能用來取代日常飲食"
+                "description": "<p>成份：綠球藻、螺旋藻 功效：含有小球藻，綠藻含豐富的營養素和葉綠素，與螺旋藻一起於極度疲勞的時候提供養份來補充或增加營養之需求。 它更有效支持和恢復各機能之運作，有助心靈上之淨化。</p><p>服用方法:  建議劑量: 每日一次,不要服用超過建議劑量,產品應遠離三歲以下兒童,補健食品不能用來取代日常飲食</p>"
             }
         ],
         "photoIds": [
             "https://lh3.googleusercontent.com/W2nfn22SKHfv3qYuL5g10M8ex-lZi4ZmhdKGOOJI1VPwVTZSTQGW5Yu0HFG_rFFdHR0lik-A_k3f98ogzvxX"
+        ]
+    },
+    {
+        "id": 89041,
+        "defaultProductName": "强化肌肉骨骼",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療"],
+        "metaData": [
+            {
+                "id": 89041,
+                "productId": "meta_data_89041",
+                "landCode": "zh-tw",
+                "name": "强化肌肉骨骼",
+                "description": "此精油有助加強肌肉骨骼系統，減少神經肌肉疼痛和痙攣、風濕病痛、關節炎、類風濕性關節炎或坐骨神經痛的症狀。<br>        <br>        使用方法：<br>    1） 將純精油和激活精油各5滴加入50毫升Jayanti葡萄籽油或Jayanti 2 合1能量激活潤膚霜中稀釋， 於全身或有需要位置進行輕柔而放鬆的按摩。<br>    2） 將純精油和激活精油各3至5滴加入超聲波擴香器(300 至500ml) 中使用， 放鬆並吸入散發在四週的香氣， 有助減少疼痛。<br>    套裝包括：<br>    10 ml 羅馬有機迷迭香純精油<br>    10 ml 利古里亞有機百里香純精油<br>    10 ml 西西里有機甜橙純精油<br>    10 ml 激活精油 - 藍桉葉精油、 牛蒡根萃取、 辣薄荷萃取、 酒精、 檸檬酸三乙酯<br>        "
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571211374/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1MUSCOLO.png"
+        ]
+    },
+    {
+        "id": 89402,
+        "defaultProductName": "抗壓",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療"],
+        "metaData": [
+            {
+                "id": 89402,
+                "productId": "meta_data_89402",
+                "landCode": "zh-tw",
+                "name": "抗壓",
+                "description": "有效增強活力，調節神經系統，因此建議在焦慮、緊張、受壓、疲勞、激動、高血壓，心悸，抑鬱和神經衰弱的情況下使用。<br>        <br>        使用方法：<br>    1) 將純精油和激活精油各5滴加入50毫升 Jayanti基底油中稀釋， 然後在全身進行舒緩按摩。<br>2) 將純精油和激活精油各3至5滴加入超聲波擴香器(300 - 500 ml) 中使用， 放鬆並吸入散發在四週的香氣。<br>3） 將純精油和激活精油各2至4滴加入注滿熱水的浴缸中浸浴， 配合柔和燈光和輕音樂放鬆身心。<br>套裝包括：<br>10 ml 托斯卡納有機薰衣草純精油<br>10 ml 阿爾卑斯有機薄荷純精油<br>10 ml 西西里有機甜橙純精油<br>10 ml 激活精油 - 檸檬果皮油、 牛蒡根萃取、 辣薄荷萃取、 酒精、 檸檬酸三乙酯<br>    "
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571211374/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1ANTISTRESS.png"
+        ]
+    },
+    {
+        "id": 89403,
+        "defaultProductName": "消炎化痰",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療"],
+        "metaData": [
+            {
+                "id": 89403,
+                "productId": "meta_data_89403",
+                "landCode": "zh-tw",
+                "name": "消炎化痰",
+                "description": "高效的抗菌和消炎能力，可以在呼吸困難情況下抵抗炎症和阻止感染蔓延，是緩解咳嗽極佳的方法，對感冒、支氣管炎、哮喘和鼻竇炎都很有幫助。<br>        <br>        使用方法：<br>    1） 將純精油和激活精油各5滴加入50毫升Jayanti基底油或Jayanti 2 合1能量激活潤膚霜中稀釋， 然後在胸腔打圈按摩。<br>    2） 將純精油和激活精油各3至5滴加入超聲波擴香器(300 - 500 ml) 中使用， 放鬆並吸入散發在四週的香氣。<br>    3） 將純精油和激活精油各3至5滴加入熱水中， 然後吸入蒸汽。<br>    4） 將純精油和激活精油各2至4滴加入注滿熱水的浴缸中放鬆浸浴。<br>    套裝包括：<br>    10 ml 羅馬有機迷迭香純精油<br>    10 ml 阿爾卑斯有機薄荷純精油<br>    10 ml 撒丁島有機尤加利純精油<br>    10 ml 激活精油 - 薰衣草精油、 牛蒡根萃取、 辣薄荷萃取、 酒精、 檸檬酸三乙酯<br>        "
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571211374/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1balsamic.png"
+        ]
+    },
+    {
+        "id": 89404,
+        "defaultProductName": "袪水消腫",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療"],
+        "metaData": [
+            {
+                "id": 89404,
+                "productId": "meta_data_89404",
+                "landCode": "zh-tw",
+                "name": "袪水消腫",
+                "description": "有效刺激微循環，緩解毛細血管和血管的張力，幫助排出多餘的液體，恢復身體和腿部的線條。<br>        <br>        使用方法：<br>    1） 將純精油和激活精油各5滴加入50毫升Jayanti基底油或Jayanti 2 合1能量激活潤膚霜中稀釋， 然後在有需要位置進行15 - 20 分鐘的淋巴按摩。<br>    2） 將純精油和激活精油各2至4滴加入冷水中並加入少量粗鹽， 然後浸泡雙脚10 - 15 分鐘。<br>    3） 建議與Jayanti美腿舒倦更生霜交替使用， 效果更佳。<br>    套裝包括：<br>    10 ml 羅馬有機迷迭香純精油<br>    10 ml 西西里有機甜橙純精油<br>    10 ml 撒丁島有機尤加利純精油<br>    10 ml 激活精油 - 檸檬果皮油、 牛蒡根萃取、 辣薄荷萃取、 酒精、 檸檬酸三乙酯<br>        "
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571211375/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1swallen.png"
+        ]
+    },
+    {
+        "id": 89405,
+        "defaultProductName": "改善便秘",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療"],
+        "metaData": [
+            {
+                "id": 89405,
+                "productId": "meta_data_89405",
+                "landCode": "zh-tw",
+                "name": "改善便秘",
+                "description": "有效刺激腸道蠕動，舒緩腹部肌肉和消除胃脹氣和積氣。<br>        <br>        使用方法：<br>    1） 將純精油和激活精油各5滴加入50毫升暖和的Jayanti基底油或Jayanti 2 合1能量激活潤膚霜中稀釋， 然後輕柔地在腹腰順時針方向打圈按摩。<br>    套裝包括：<br>    10 ml 托斯卡納有機薰衣草純精油<br>    10 ml 西西里有機甜橙純精油<br>    10 ml 阿爾卑斯有機薄荷純精油<br>    10 ml 激活精油 - 羅馬洋甘菊精油、 牛蒡根萃取、 辣薄荷萃取、 酒精、 檸檬酸三乙酯<br>        "
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571211374/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1constipation.png"
+        ]
+    },
+    {
+        "id": 89406,
+        "defaultProductName": "止痛 (頭痛和偏頭痛)",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療"],
+        "metaData": [
+            {
+                "id": 89406,
+                "productId": "meta_data_89406",
+                "landCode": "zh-tw",
+                "name": "止痛 (頭痛和偏頭痛)",
+                "description": "通過使用精油進行芳香療法可以幫助治療頭痛和偏頭痛，因為它可以逐漸釋放緊張情緒，避免可能導致偏頭痛的積累。在用於緩解頭痛的芳香植物產生的香氛中，我們發現用於緩解呼吸道的香脂精華，用於治療由緊張和壓力引起的肌肉緊張性頭痛效果奇佳。<br>        <br>        使用方法：<br>    1） 將純精油和激活精油各5滴加入50毫升暖和的Jayanti基底油或Jayanti 2 合1能量激活潤膚霜中稀釋， 然後在額頭和太陽穴進行5 - 10 分鐘輕柔按摩， 並用雙手的手指深層循環按摩頸項背面5分鐘。<br>    2) 將純精油和激活精油各3至5滴加入超聲波擴香器(300 - 500 ml) 中使用， 放鬆並吸入散發在四週的香氣。<br>3) 將純精油和激活精油各3至5滴加入熱水中， 然後吸入蒸氣。<br>4) 將純精油和激活精油各2至4滴加入注滿熱水的浴缸中放鬆浸浴。<br>5） 建議將相等份量的每款精油裝進一個小容器內， 每天隨身攜帶， 於需要時吸入。<br>套裝包括：<br>10 ml 托斯卡納有機薰衣草純精油<br>10 ml 撒丁島有機尤加利純精油<br>10 ml 阿爾卑斯有機薄荷純精油<br>10 ml 激活精油 - 羅馬洋甘菊精油、 牛蒡根萃取、 辣薄荷萃取、 酒精、 檸檬酸三乙酯<br>    "
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571211375/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1headache.png"
+        ]
+    },
+    {
+        "id": 89407,
+        "defaultProductName": "淨肝",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療"],
+        "metaData": [
+            {
+                "id": 89407,
+                "productId": "meta_data_89407",
+                "landCode": "zh-tw",
+                "name": "淨肝",
+                "description": "通常消化不良、噁心、疲勞、虛弱和上腹疼痛都是由於肝臟排毒出了問題。通過水和皮膚之間的滲透，此精油可以幫助肝臟淨化排毒和重新啟動肝臟平衡。<br>        <br>        使用方法：<br>    1） 將純精油和激活精油各3至5滴加入50毫升暖和的Jayanti基底油或Jayanti 2 合1能量激活潤膚霜中稀釋， 然後輕輕地在肝臟位置慢而深的順時針方向打圈按摩。 每天1次， 每次5分鐘。<br>    2） 將純精油和激活精油各2至4滴加入注滿温水的浴缸， 倒入一磅粗鹽， 然後放鬆浸浴。（ 建議最少一個月連續每晚浸浴， 肝臟活動將得到提升， 血液將被淨化， 而消化將會更好）<br>    套裝包括：<br>    10 ml 羅馬有機迷迭香純精油<br>    10 ml 西西里有機甜橙純精油<br>    10 ml 阿馬爾菲有機檸檬純精油<br>    10 ml 激活精油 - 藍桉葉精油、 牛蒡根萃取、 辣薄荷萃取、 酒精、 檸檬酸三乙酯<br>        "
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571211374/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1liver.png"
+        ]
+    },
+    {
+        "id": 8403050,
+        "defaultProductName": "Sweet Sleep 甜睡安眠",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療", "#Bio Angel"],
+        "metaData": [
+            {
+                "id": 8403050,
+                "productId": "meta_data_BA03050",
+                "landCode": "zh-tw",
+                "name": "Sweet Sleep 甜睡安眠",
+                "description": "香薰治療精油具有極佳的放鬆功能和抗抑鬱效果。它可以抵抗焦慮、失眠、緊張和耳鳴的問題。<br><br>使用方法：<br>1）將純精油和激活精油各5滴加入50ml基底油或無香潤體霜然後進行全身按摩。<br>2）睡眠時將純精油和激活精油各3至5滴加入超聲波擴香器(300-500ml)中使用。<br>3）將純精油和激活精油各2至4滴加入注滿熱水的浴缸中浸浴，配合柔和燈光和輕音樂放鬆身心。<br><br>套裝包括：<br>10ml 茴香純精油<br>10ml 西柚純精油<br>10ml 快樂鼠尾草純精油<br>10ml 激活精油 - 香脂檀樹皮油、牛蒡根萃取、辣薄荷萃取、酒精、檸檬酸三乙酯"
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571304743/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1sweet_sleep.png"
+        ]
+    },
+    {
+        "id": 8403051,
+        "defaultProductName": "Digestion Problems 緩解胃部不適",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療", "#Bio Angel"],
+        "metaData": [
+            {
+                "id": 8403051,
+                "productId": "meta_data_BA03051",
+                "landCode": "zh-tw",
+                "name": "Digestion Problems 緩解胃部不適",
+                "description": "本精油有助於對抗噁心，改善消化問題例如胃乏力、胃酸倒流、消化不良、胃抽搐和腹部腫脹等。<br><br>使用方法：<br>1）將純精油和激活精油各5滴加入50ml基底油或無香潤體霜混合輕輕按摩腹部，舒緩抽搐、胃氣、腹脹，胃熱，消化不良等問題。<br>2）將純精油和激活精油各3至5滴加入超聲波擴香器(300-500ml)中使用，然後躺下休息。這些精油的香氣能迅速消除噁心和惱人的沉重感，因消化問題而引起的頭痛亦會很快得到舒緩。<br>3）建議將等量的每種精油裝進一個小容器內，每天隨身攜帶，便於需要時吸入。<br><br>套裝包括：<br>10ml 茴香純精油10ml<br>10ml 生薑純精油10ml<br>10ml 月桂純精油10ml<br>10ml 激活精油 - 杜松果油、牛蒡根萃取、辣薄荷萃取、酒精、檸檬酸三乙酯"
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571304743/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1digestion_problems.png"
+        ]
+    },
+    {
+        "id": 8403052,
+        "defaultProductName": "Menstrual Cramps 養護子宮",
+        "isPublished": true,
+        "totalStock": 1,
+        "productCategoryIds": [1020],
+        "tags": ["#香薰治療", "#Bio Angel"],
+        "metaData": [
+            {
+                "id": 8403052,
+                "productId": "meta_data_BA03052",
+                "landCode": "zh-tw",
+                "name": "Menstrual Cramps 養護子宮",
+                "description": "用於緩解月經疼痛、不規則子宮出血、月經紊亂，閉經、痛經、白帶和減輕經前期綜合徵狀。<br><br>使用方法：<br>1）將純精油和激活精油各5滴加入50ml温熱的基底油或無香潤體霜混合輕輕在子宮和膀胱位置按摩，緩解痙攣和月經疼痛。<br>2）將純精油和激活精油各3至5滴加入超聲波擴香器(300-500ml)中使用，然後躺下休息，放鬆身心。<br><br>套裝包括：<br>10ml 茴香純精油<br>10ml 杜松純精油<br>10ml 鼠尾草純精油<br>10ml 激活精油 - 香葉天竺葵花油、牛蒡根萃取、辣薄荷萃取、酒精、檸檬酸三乙酯"
+            }
+        ],
+        "photoIds": [
+            "https://res.cloudinary.com/justoretesting1/image/upload/v1571304743/client_ab99139a-1094-47b9-8a93-2af8f90c1bda/Tavola_disegno_1mestrual.png"
         ]
     }
 ]

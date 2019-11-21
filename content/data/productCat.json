@@ -324,10 +324,28 @@
                     },
                     "productCount": "8",
                     "catSortType": "Normal"
+                },
+                {
+                    "catId": 1020,
+                    "id": 1020,
+                    "name": "healing essence kits 治療精油套裝",
+                    "published": true,
+                    "meta": {
+                        "id": "m1020",
+                        "catId": 1020,
+                        "langCode": "zh-tw",
+                        "name": "healing essence kits 治療精油套裝",
+                        "productCount": 10,
+                        "published": false,
+                        "translated": true,
+                        "catSortType": "Normal"
+                    },
+                    "productCount": "10",
+                    "catSortType": "Normal"
                 }
             ]
         }
     ],
-    "version": 1,
+    "version": 2,
     "jsid": "ab99139a-1094-47b9-8a93-2af8f90c1bda"
 }
